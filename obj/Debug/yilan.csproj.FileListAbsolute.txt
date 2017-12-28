@@ -1,0 +1,10 @@
+C:\Users\FOLEX\source\repos\yilan\yilan\bin\Debug\yilan.exe.config
+C:\Users\FOLEX\source\repos\yilan\yilan\bin\Debug\yilan.exe
+C:\Users\FOLEX\source\repos\yilan\yilan\bin\Debug\yilan.pdb
+C:\Users\FOLEX\source\repos\yilan\yilan\obj\Debug\yilan.csprojResolveAssemblyReference.cache
+C:\Users\FOLEX\source\repos\yilan\yilan\obj\Debug\yilan.Form1.resources
+C:\Users\FOLEX\source\repos\yilan\yilan\obj\Debug\yilan.Properties.Resources.resources
+C:\Users\FOLEX\source\repos\yilan\yilan\obj\Debug\yilan.csproj.GenerateResource.Cache
+C:\Users\FOLEX\source\repos\yilan\yilan\obj\Debug\yilan.csproj.CoreCompileInputs.cache
+C:\Users\FOLEX\source\repos\yilan\yilan\obj\Debug\yilan.exe
+C:\Users\FOLEX\source\repos\yilan\yilan\obj\Debug\yilan.pdb
